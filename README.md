@@ -234,7 +234,7 @@ Log format:
 
 Mochammad Rakandiya
 
-- Email: rakandiya@gmail.com
+- Email: rakandiya.safwan@gmail.com
 - GitHub: [rakandiya](https://github.com/Rakandiya)
 - LinkedIn: [Mochammad Rakandiya](https://www.linkedin.com/in/rakandiya-shafwan/)
 
