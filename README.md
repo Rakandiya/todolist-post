@@ -39,6 +39,7 @@ Aplikasi API untuk manajemen konten sosial media dengan fitur penjadwalan postin
   - Express.js
   - MongoDB
   - Mongoose
+  - Nodemon (Development)
 - **Tools & Library**
   - Swagger UI (Dokumentasi API)
   - Winston (Logging)
@@ -50,8 +51,8 @@ Aplikasi API untuk manajemen konten sosial media dengan fitur penjadwalan postin
 1. **Clone Repositori**
 
    ```bash
-   git clone https://github.com/username/todo-social-media-api.git
-   cd todo-social-media-api
+   git clone https://github.com/Rakandiya/todolist-post.git
+   cd todolist-post
    ```
 
 2. **Install Dependensi**
@@ -77,27 +78,14 @@ Aplikasi API untuk manajemen konten sosial media dengan fitur penjadwalan postin
    MONGODB_URI=mongodb://localhost:27017/todo-app
    MONGODB_USER=your_username     # Optional
    MONGODB_PASS=your_password     # Optional
-
-
-
    ```
 
-4. **Buat file .env.example**
+4. **Jalankan Aplikasi**
 
-   ```env
-   # Server Configuration
-   PORT=3000
-   NODE_ENV=development
+   Development (dengan Nodemon):
 
-   # MongoDB Configuration
-   MONGODB_URI=mongodb://localhost:27017/todo-app
-   MONGODB_USER=
-   MONGODB_PASS=
-   ```
-
-5. **Jalankan Aplikasi**
    ```bash
-   npm start
+   nodemon index
    ```
 
 ## 🚀 Penggunaan API
